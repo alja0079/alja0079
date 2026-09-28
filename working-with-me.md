@@ -100,4 +100,11 @@ PROJECT STATUS: DESERT TREASURE FILM
   - VILLAIN (Masked Collector): tall, thin, calm, cracked golden mask made from tomb doors, grey and black layered robes, tattooed hands, bronze staff topped with a key. Risk: layered fabric may melt in Kling, so test early.
   - HAWK_MASTER: pale sandy-cream desert hawk, speckled chest, black wing tips, amber eyes, dark blue leather band on one leg.
   - CAMEL_MASTER: big, healthy, strong dromedary, full body, thick long legs (90% right). Gear is added in scenes.
-- Next step: Act 1 storyboard (the rescue, about 75 seconds): shots in order, start and end frames, what each clip shows. Short prompts only.
+- PROGRESS (the user directs every shot):
+  - Shot 1 DONE: blue-hour aerial over the Mesopotamian village, down the alley (sleeping dog), into the courtyard with the camel, hawk on its post, and the gear on the ground. 10s, 480 credits.
+  - Clip 2A DONE: the hero walks in with his dog and lifts the saddle onto the camel. The hawk flaps. 10s, 480 credits. Flaw: the saddle blobs while being carried (kept).
+  - Rough cut shot 1 + 2A = 17.7s, seamless join (film/roughcut_shot1_2A.mp4 in the repo).
+  - DOG: big fawn shepherd dog with a black muzzle. He does NOT leave with the hero; he stays home.
+  - Spent: 960 Kling credits + a few Nano Banana images.
+  - NEXT: clip 2B. Start frame = film/clip2A_LAST_FRAME.png. The user decides what happens (my suggestion was tying the bags, shield, bow and map, with the dog tugging a rope; not approved yet).
+  - Use film/HERO_MASTER_crop.png (not the full master) when adding the hero with Nano Banana.

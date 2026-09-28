@@ -110,5 +110,7 @@ PROJECT STATUS: DESERT TREASURE FILM
   - NAMES: camel = TAMMAM. The dog has NO name (the hero calls him 'pal').
   - LINES: 'Well, Tammam... it's going to be a long journey, my friend.' The camel looks back: one eyebrow up, smart smile. Hero: '...Yes. That long.' To the dog: 'Guard the house for me, pal. I'll be back.' The dog barks back (yes).
   - PLAN 'Leaving Home': 2B finish packing, 3A talk to Tammam, 3B camel look (5s), 4 dog goodbye, 5 lead the camel on foot along the river bank at sunrise (dog follows, stops at the village edge), 6 camel kneels at the village gate and he mounts, 7 rides WEST with the sunrise BEHIND him (Egypt is west).
+  - HAWK (user picked): stays on the post in 2B; circles overhead during the river walk (5); 6A (5s) at the gate he raises his leather bracer and the hawk glides down onto his arm; 6B camel kneels, the hawk hops onto the saddle, he mounts, the camel stands; 7 riding west, he lifts his arm and the hawk launches and flies ahead to the WEST as scout.
+  - Nano Banana lesson: do NOT upload HERO_MASTER when the hero is already in the scene. It copied his shield, bow and quiver onto his back (duplicates), and its tall shape made the output vertical. Use a one-image edit.
   - NEXT: clip 2B. Start frame = film/clip2A_LAST_FRAME.png. The user decides what happens (my suggestion was tying the bags, shield, bow and map, with the dog tugging a rope; not approved yet).
   - Use film/HERO_MASTER_crop.png (not the full master) when adding the hero with Nano Banana.

@@ -24,6 +24,7 @@ NO CREDITS WITHOUT SEEING IT FIRST
 - Before I spend any credits, show me the plan visually: a picture of the exact images in order, which image is the start frame and which is the end frame, and what each clip will show.
 - Tell me the credit cost of each step before I do it.
 - If I can't see it, I don't spend on it.
+- ALWAYS send me the exact image file to upload, with a picture marking UPLOAD THIS (and NOT THIS if there's a similar one).
 
 HOW TO TALK TO ME
 - Keep answers short and simple. Use numbered steps, colour emojis and small tables.

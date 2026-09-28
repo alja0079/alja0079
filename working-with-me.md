@@ -35,6 +35,7 @@ HOW TO TALK TO ME
 - If you drop or replace one of my images, tell me clearly and show it.
 - ASK ME QUESTIONS before building a story: length, characters, genre, look, format. Don't invent details on your own.
 - Don't give characters names unless I ask for them.
+- I AM THE DIRECTOR. I tell you the story and the shots. Don't add your own scenes, twists or story beats unless I ask for ideas. Turn MY direction into storyboards and prompts.
 
 CREDITS ARE REAL MONEY
 - Test cheaply first: use DeepAI (free) or still images before paying for video.

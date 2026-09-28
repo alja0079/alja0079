@@ -106,5 +106,9 @@ PROJECT STATUS: DESERT TREASURE FILM
   - Rough cut shot 1 + 2A = 17.7s, seamless join (film/roughcut_shot1_2A.mp4 in the repo).
   - DOG: big fawn shepherd dog with a black muzzle. He does NOT leave with the hero; he stays home.
   - Spent: 960 Kling credits + a few Nano Banana images.
+  - DAY 2 DIRECTION: add humor with the camel; the hero's face turns OPTIMISTIC and ready once packing is done (ask for a 'small confident smile, bright eyes', never 'smile' alone, or he looks goofy). The user edits in Canva too; Claude keeps making its own cut alongside.
+  - NAMES: camel = TAMMAM. The dog has NO name (the hero calls him 'pal').
+  - LINES: 'Well, Tammam... it's going to be a long journey, my friend.' The camel looks back: one eyebrow up, smart smile. Hero: '...Yes. That long.' To the dog: 'Guard the house for me, pal. I'll be back.' The dog barks back (yes).
+  - PLAN 'Leaving Home': 2B finish packing, 3A talk to Tammam, 3B camel look (5s), 4 dog goodbye, 5 lead the camel on foot along the river bank at sunrise (dog follows, stops at the village edge), 6 camel kneels at the village gate and he mounts, 7 rides WEST with the sunrise BEHIND him (Egypt is west).
   - NEXT: clip 2B. Start frame = film/clip2A_LAST_FRAME.png. The user decides what happens (my suggestion was tying the bags, shield, bow and map, with the dog tugging a rope; not approved yet).
   - Use film/HERO_MASTER_crop.png (not the full master) when adding the hero with Nano Banana.

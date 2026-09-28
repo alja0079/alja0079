@@ -77,6 +77,9 @@ PROMPT LESSONS (from the desert film, character design)
 - Watch for copyright look-alikes: bald + red face mark = God of War. Hood + shield + bow + spear + eagle = Assassin's Creed. Change colours and props, and never add a spear or an eagle to my hero.
 - Put the character in the film's world (desert, golden light) when judging the look. Plain grey is only for reference sheets.
 - Kling 3.0 in Magic Hour: 10s image-to-video clip = 480 credits. Start + end frames that are far apart (rooftops to courtyard) WORKED as a smooth fly-through, no morphing. Kling tends to hold the last ~1.5s still, so trim it in the edit.
+- Nano Banana with 2 images: it copies the BACKGROUND of the character image (pyramids leaked in). Crop masters tight to the person, and start the prompt with 'Edit image 1. Do not change the background.' That worked.
+- Check for DUPLICATE objects after adding a character (an extra saddle stayed on the ground). The DeepAI editor removed it for free.
+- Kling tends to morph objects that are being carried (the saddle became a cloth blob for about 1.5s).
 - Always save the last frame of a clip as the free start frame for the next clip.
 - Old-world scenes: ask for 'small clay oil lamps', never 'lanterns' (you get modern glass kerosene lanterns).
 - DeepAI free text-to-image can't copy a face from a picture. For an exact face or the same character in many scenes, use Nano Banana Pro with the master image as a reference (costs credits, so show the plan first).

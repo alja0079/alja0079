@@ -85,6 +85,7 @@ RESULTS SO FAR (by the standard)
 
 PROJECT STATUS: DESERT TREASURE FILM
 - About 5 minutes, cinematic realistic, 16:9 for YouTube (plus 3-4 vertical teaser Shorts). Made one clip at a time. About 40 clips.
+- Journey: he STARTS in his village in ancient Mesopotamia (Iraq/Syria area, near the Euphrates). The pyramids in Egypt are his FINAL DESTINATION. No pyramids in early shots.
 - Story: a hooded desert warrior following his missing father's old map rescues a woman from masked raiders near the pyramids. She joins his hunt for the treasure. Twist: SHE is the key (last Keeper, glowing gold marks on her wrist). The raiders' leader, the Masked Collector, captures her at the vault. Inside: a glowing underground oasis, and his father alive, guarding it. Camel comedy at the end. Final shot hints at a second vault (sequel).
 - No character names.
 - Cast (all locked, saved as master images):

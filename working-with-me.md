@@ -114,5 +114,6 @@ PROJECT STATUS: DESERT TREASURE FILM
   - Nano Banana lesson: do NOT upload HERO_MASTER when the hero is already in the scene. It copied his shield, bow and quiver onto his back (duplicates), and its tall shape made the output vertical. Use a one-image edit.
   - Clip 2B DONE (480): he carries the bags and shield to the saddle, the bow and map pop in, the dog sits and looks up. Flaw: the camel's rear half turns golden for about 1.5-5s. In Claude's cut that part is sped up 2x. Rough cut v2 = 24.3s (film/roughcut_v2.mp4).
   - Kling DID carry objects well this time, when the end frame showed the exact final placement.
-  - NEXT: clip 3A (talk to Tammam, optimistic face). Start = film/clip2B_LAST_FRAME.png. Start frame = film/clip2A_LAST_FRAME.png. The user decides what happens (my suggestion was tying the bags, shield, bow and map, with the dog tugging a rope; not approved yet).
+  - Clip 3A DONE (5s): he checks the rope at the post, turns with a big warm smile, and pats Tammam. The face is optimistic. Flaw: the camel's rear half is pale/golden again. Rough cut v3 = 29.4s (film/roughcut_v3.mp4).
+  - NEXT: clip 3B (Tammam's eyebrow look). Start = film/clip3A_LAST_FRAME.png. Start frame = film/clip2A_LAST_FRAME.png. The user decides what happens (my suggestion was tying the bags, shield, bow and map, with the dog tugging a rope; not approved yet).
   - Use film/HERO_MASTER_crop.png (not the full master) when adding the hero with Nano Banana.

@@ -117,5 +117,7 @@ PROJECT STATUS: DESERT TREASURE FILM
   - Clip 3A DONE (5s): he checks the rope at the post, turns with a big warm smile, and pats Tammam. The face is optimistic. Flaw: the camel's rear half is pale/golden again. Rough cut v3 = 29.4s (film/roughcut_v3.mp4).
   - Clip 3B DONE (5s): close-up, sleepy chewing, eyes snap open, side-eye at the camera, slight smile. Funny. Rough cut v4 = 34.4s (film/roughcut_v4.mp4, older cuts removed).
   - Close-ups = a new camera angle, so make a new start frame with Nano Banana from the last frame, then a DeepAI edit for the end frame. Worked well.
-  - NEXT: clip 4 (dog goodbye). Cut back to the wide courtyard; start = film/clip3A_LAST_FRAME.png. Start frame = film/clip2A_LAST_FRAME.png. The user decides what happens (my suggestion was tying the bags, shield, bow and map, with the dog tugging a rope; not approved yet).
+  - Clip 4 (5s) came out WRONG: it started on the kneeling end frame, then he stood, walked around the dog and knelt again BEHIND the dog. It probably ran without the intended start frame. SALVAGED for free: only the last 1.4s (kneeling behind the dog, smiling, dog panting happily) slowed 2x = 2.9s, cut straight after the 3B close-up. Rough cut v5 = 37.2s (film/roughcut_v5.mp4).
+  - Lesson: in Magic Hour, double-check which image is in START vs END before generating.
+  - NEXT: clip 5 (lead Tammam out, walk along the river bank at sunrise). Start = film/clip4_LAST_FRAME.png. Start frame = film/clip2A_LAST_FRAME.png. The user decides what happens (my suggestion was tying the bags, shield, bow and map, with the dog tugging a rope; not approved yet).
   - Use film/HERO_MASTER_crop.png (not the full master) when adding the hero with Nano Banana.

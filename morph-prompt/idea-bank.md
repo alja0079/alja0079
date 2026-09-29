@@ -241,3 +241,4 @@ Key idea: not "10 hidden tricks", but "features that solve problems you didn't k
 - Episode 1: Is your phone slow? (3 quick fixes)
 - Episode 2: 25 tools for job seekers
 - Episode 3: 25 apps that save money
+- Episode 4: Copy text off a sign with your camera (idea #10)

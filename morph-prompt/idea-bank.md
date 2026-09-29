@@ -177,7 +177,7 @@ Turn on: Settings → Apple Intelligence & Siri.
 - **Hook:** "Your iPhone can show who still has access to your life."
 - **How:** Settings → Privacy & Security → Safety Check. Review location sharing, shared photos/notes, app permissions and linked devices. Emergency Reset stops all sharing fast.
 - **Tone:** Sensitive topic, keep it calm and respectful.
-- **Status:** NEW
+- **Status:** USED (Episode 5)
 
 ---
 
@@ -261,3 +261,4 @@ RULE: the place must SHOW the problem. No random places (fails Clarity).
 - Episode 2: 25 tools for job seekers
 - Episode 3: 25 apps that save money
 - Episode 4: Copy text off a sign with your camera (idea #10)
+- Episode 5: Who can still see your location? Safety Check (idea #27), Dave on the couch at night

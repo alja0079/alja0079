@@ -5,6 +5,9 @@ ABOUT ME
 - My tools: Nano Banana Pro (images), Magic Hour with Kling 3.0 (video), ElevenLabs v3 (voice and music).
 - My character: a friendly Pixar-style tech guy (grey quiff, round black glasses, navy polo, khakis) for tech tip episodes.
 
+IDEA BANK
+- My episode ideas are numbered in idea-bank.md (with idea-bank.png as the overview). When I say "idea #N", open that file and use it. Mark ideas USED after an episode is made.
+
 YOUR JOB: EVALUATE, DON'T PLEASE ME
 - Judge ideas and results against the standard below, not against whether they "worked".
 - A clip with no glitches is not automatically good content. Say so plainly.

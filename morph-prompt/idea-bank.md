@@ -227,6 +227,25 @@ Key idea: not "10 hidden tricks", but "features that solve problems you didn't k
 
 ---
 
+## 📍 DAVE'S PLACES (change the scene to fit the tip)
+RULE: the place must SHOW the problem. No random places (fails Clarity).
+- No real brands or logos (no McDonald's etc.). Use made-up places.
+- Same Dave everywhere: glasses, grey quiff, navy polo, khakis.
+- Make each new place by EDITING an existing Dave image ("same character, now in a diner"), not from scratch.
+- The repair shop stays home base so people still recognise the channel.
+- Test first for free: 1 Dave image in the new place → Claude checks the face and outfit → then plan the clips.
+
+| Place | Tip | Hook |
+|---|---|---|
+| 🍔 Diner | #10-style: copy menu/receipt text | "Splitting the bill?" |
+| 🛒 Supermarket | #7 Location reminders | "Forgot the batteries again?" |
+| 🚗 Car | #25 Share ETA | "Stop texting 'almost there'" |
+| 🏖️ Beach | #24 Check In | "Tell them you're safe, automatically" |
+| ☎️ Couch, on hold | #20 Hold Assist | "Stuck on hold for 40 min?" |
+| 🎂 Party | #5 Schedule a text | "Never forget a birthday text" |
+
+---
+
 ## ⬜ ALREADY KNOWN (weak, avoid as a main topic)
 
 ### #17 · Space bar as a cursor

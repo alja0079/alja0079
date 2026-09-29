@@ -2,6 +2,7 @@
 
 Every idea has a number. Say "idea #7" and Claude opens this file and uses it.
 Status: NEW = not used yet · KNOWN = viewers already know it (weak) · USED = already made into an episode
+RULE FOR PICKING: a Short tip must take 3 taps or fewer and be easy to see on screen.
 Before filming any idea: check the steps on a real iPhone with the latest iOS. Menus change between versions.
 
 ---
@@ -13,7 +14,7 @@ Before filming any idea: check the steps on a real iPhone with the latest iOS. M
 - **Why:** One tap, a Siri request or an automatic trigger runs a whole routine.
 - **How:** Shortcuts → Gallery for starters, or build your own. Automations can run at a time, a place, when an app opens, or when a device connects.
 - **Episode angle:** A "Start Work" shortcut: turns on Work Focus → opens Calendar and Reminders → shows your next meeting → opens Slack/Teams → starts your focus playlist.
-- **Status:** NEW ⭐ strong episode
+- **Status:** ❌ TOO COMPLEX for a Short (tested for Episode 4: too many steps, Work Focus setup is confusing). Only use as a longer video.
 
 ### #2 · Work Focus that turns itself on
 - **Hook:** "Your phone can stop distracting you, automatically."

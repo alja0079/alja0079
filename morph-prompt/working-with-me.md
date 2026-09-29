@@ -61,6 +61,7 @@ LESSONS LEARNED
 - VIDEO TEXT/LISTS: phones and YouTube buttons cover the edges. Keep text at least 60px from the left edge (of 720 wide) and below the top player buttons (start titles at y=140+). Check a phone-view preview before sending.
 - STEP IMAGE THEME (approved, Episode 4): dark navy background, yellow STEP pill, big white title + grey subtitle, phone with a LIGHT grey-white screen (242,242,247) on every step, white cards with soft shadow, Apple yellow/blue for UI, red only for arrows and 'tap here' labels.
 - Pretty images alone don't make a good video. The idea has to surprise.
+- ENDINGS: never repeat an ending. Episodes 4-6 all ended with relief + lean back + thumbs up, which got boring (fails Payoff). Each ending must be a visual gag tied to THAT episode's problem (e.g. Ep6: toss the notepad over his shoulder, sticky notes rain down, smug coffee sip).
 
 RESULTS SO FAR (by the standard)
 - Tech tips Episode 1 ("Is your phone slow?"): strongest, passed 4 of 5.

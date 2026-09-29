@@ -55,6 +55,7 @@ LESSONS LEARNED
 - Image AIs are bad at "extend to 9:16": they duplicate things or add people. Ask for a NEW vertical image with the original as a style reference, and set the ratio to 9:16.
 - Each video needs its own music. Write an ElevenLabs Music prompt that fits its mood.
 - THUMBNAILS: YouTube's Shorts grid crops the top and bottom (about 150px of 1920). Keep all text between y=200 and y=1720, and check a crop preview before sending.
+- VIDEO TEXT/LISTS: phones and YouTube buttons cover the edges. Keep text at least 60px from the left edge (of 720 wide) and below the top player buttons (start titles at y=140+). Check a phone-view preview before sending.
 - Pretty images alone don't make a good video. The idea has to surprise.
 
 RESULTS SO FAR (by the standard)

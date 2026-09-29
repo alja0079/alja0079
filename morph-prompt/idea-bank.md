@@ -153,7 +153,7 @@ Turn on: Settings → Apple Intelligence & Siri.
 - **Hook:** "Never forget what customer support told you."
 - **How:** On supported versions, record a Phone or FaceTime call; it saves to Notes, with transcripts in select regions and languages. The other person is notified.
 - **Must say:** Only record with permission. Laws differ by state.
-- **Status:** NEW (handle carefully)
+- **Status:** USED (Episode 6)
 
 ---
 
@@ -262,3 +262,4 @@ RULE: the place must SHOW the problem. No random places (fails Clarity).
 - Episode 3: 25 apps that save money
 - Episode 4: Copy text off a sign with your camera (idea #10)
 - Episode 5: Who can still see your location? Safety Check (idea #27), Dave on the couch at night
+- Episode 6: Record a call, get the transcript in Notes (idea #33), Dave in the kitchen, notepad-toss ending

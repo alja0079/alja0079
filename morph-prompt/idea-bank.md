@@ -114,6 +114,118 @@ Turn on: Settings → Apple Intelligence & Siri.
 
 ---
 
+## 🟦 WORK SMARTER (more)
+
+### #19 · Turn meetings and voice notes into searchable text
+- **Hook:** "Stop re-listening to long voice notes. Your iPhone can turn them into searchable text."
+- **How:** Open a note → attachment/menu button → Record Audio. You get a live transcript you can search and copy, and on supported versions a summary.
+- **Example:** After a meeting, search "deadline" instead of scrubbing through 30 minutes of audio.
+- **Status:** NEW ⭐
+
+### #21 · The "Capture Everything" inbox (second brain)
+- **Hook:** "Stop losing ideas: build an iPhone second brain."
+- **Setup:** Notes → folder "Life Dashboard" → pinned note "Inbox". Dump every thought, link, screenshot and voice memo there. Once a day, move tasks to Reminders and reference material into folders.
+- **Why:** Notes searches typed text, handwriting, scans and text inside images.
+- **Status:** NEW
+
+### #22 · Safari Tab Groups: one workspace per project
+- **Hook:** "40 tabs open? Do this instead."
+- **How:** Safari → Tabs button → press and hold a tab → move it to a new Tab Group (Work, Travel, Shopping, Home projects, Bills…).
+- **Status:** NEW
+
+### #23 · Shortcuts as your command center (goes with #1)
+- **Hook:** "Build tiny apps for your life, with no coding."
+- **Ideas:** Start Work · Meeting Mode · Content Capture · Leave Home (traffic + ETA) · Night Reset · Send My Location.
+- **Status:** NEW (could combine with #1 into one episode)
+
+---
+
+## 📞 CALLS
+
+### #20 · Your iPhone waits on hold for you (Hold Assist)
+- **Hook:** "Your iPhone can wait on hold so you don't have to."
+- **How:** When put on hold, tap "Hold" at the top of the call screen (or the menu button → Hold Assist). It alerts you when a real person comes back, with a transcript of what you missed. Auto-detect: Settings → Apps → Phone → Hold Assist Detection.
+- **Checked earlier (Apple Support):** iPhone 12 / SE 3rd gen or newer, iOS 26. Not in every country, so say "if you see Hold Assist on your phone".
+- **Status:** NEW ⭐ already researched
+
+### #33 · Record a call and turn it into notes
+- **Hook:** "Never forget what customer support told you."
+- **How:** On supported versions, record a Phone or FaceTime call; it saves to Notes, with transcripts in select regions and languages. The other person is notified.
+- **Must say:** Only record with permission. Laws differ by state.
+- **Status:** NEW (handle carefully)
+
+---
+
+## 🟥 SAFETY & FAMILY
+
+### #24 · Check In: "text me when you get home", automatic
+- **Hook:** "Instead of 'text me when you get home', send an iPhone Check In."
+- **How:** Messages → open a chat → + → More → Check In. Both people need iOS 17 or later. If you don't arrive, it can share your location, battery and signal.
+- **Use for:** kids walking home, late drives, first dates, solo hikes.
+- **Status:** NEW ⭐ strong, families share this
+
+### #25 · Share your ETA instead of "I'm almost there"
+- **How:** Apple Maps → start navigation → tap the route card → Share ETA → pick a contact. Updates live if you're delayed.
+- **Status:** NEW
+
+### #26 · Set up Emergency SOS before you need it
+- **How:** Settings → Emergency SOS. Press the side button 5 times, or hold side + volume. Also check Emergency Contacts and Medical ID.
+- **Status:** NEW (good for parents and older viewers)
+
+### #27 · Safety Check: who can still see your stuff?
+- **Hook:** "Your iPhone can show who still has access to your life."
+- **How:** Settings → Privacy & Security → Safety Check. Review location sharing, shared photos/notes, app permissions and linked devices. Emergency Reset stops all sharing fast.
+- **Tone:** Sensitive topic, keep it calm and respectful.
+- **Status:** NEW
+
+---
+
+## ♿ ACCESSIBILITY (helps everybody)
+
+### #28 · Live Captions for anything you hear
+- **How:** Settings → Accessibility → Live Captions. Works for videos, FaceTime, podcasts and people talking nearby. iPhone 11 or later; language and region may vary.
+- **Status:** NEW
+
+### #29 · Live Speech: type, and your iPhone talks
+- **How:** Settings → Accessibility → Live Speech. Works in person and on FaceTime.
+- **Status:** NEW
+
+### #30 · Sound Recognition: your phone listens for the doorbell
+- **Hook:** "Headphones on and missed the doorbell? Not anymore."
+- **What:** Alerts for sounds like a doorbell, alarm, siren or baby crying.
+- **Status:** NEW
+
+---
+
+## 🔐 PRIVACY & SECURITY
+
+### #31 · Passkeys: use your face instead of passwords
+- **Hook:** "Use your face instead of passwords."
+- **What:** Sign in with Face ID or Touch ID on supported sites. Unique per account, harder to phish, synced in iCloud Keychain.
+- **How:** When a site offers a passkey, create it at sign-up or in its security settings.
+- **Status:** NEW
+
+### #32 · Share household passwords safely
+- **What:** A trusted group shares selected passwords (Wi-Fi, streaming). Stays updated, and you can remove people later.
+- **Must say:** Never share banking, email or Apple Account passwords this way.
+- **Status:** NEW
+
+---
+
+## 🎬 SERIES IDEA
+**"iPhone Features That Actually Improve Your Life"**: problem → solution → demo.
+- Meetings into searchable notes (#19)
+- It waits on hold for you (#20)
+- The safety feature every family should know (#24)
+- Who still has access to your life (#27)
+- Build an iPhone second brain (#21)
+- 5 accessibility tools that help everybody (#28, #29, #30 + Voice Control, Read & Speak)
+- Use your face instead of passwords (#31)
+
+Key idea: not "10 hidden tricks", but "features that solve problems you didn't know your phone could solve".
+
+---
+
 ## ⬜ ALREADY KNOWN (weak, avoid as a main topic)
 
 ### #17 · Space bar as a cursor

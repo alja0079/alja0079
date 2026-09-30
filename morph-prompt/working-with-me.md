@@ -64,6 +64,7 @@ LESSONS LEARNED
 - Pretty images alone don't make a good video. The idea has to surprise.
 - THUMBNAIL IMAGE: show the PAYOFF moment (happy, the gag, the result), not the stressed problem face. Thumbnail text = the exact words people search (e.g. RECORD CALLS ON IPHONE), plus one visual icon (e.g. a red REC badge).
 - TITLES: start with the exact phrase people type into search ("How to Record Phone Calls on iPhone"), then the hook in brackets (Free, No App!). Write 3 options and recommend one.
+- ACTING: never ask Kling for big acting ("both laugh", "toast", "shrug", "cheers"). It comes out exaggerated and fake (Ep7 coffee-toast clip was rejected). Ask for small, natural actions and let the story do the work. Often the previous clip already IS the ending.
 - ENDINGS: never repeat an ending. Episodes 4-6 all ended with relief + lean back + thumbs up, which got boring (fails Payoff). Each ending must be a visual gag tied to THAT episode's problem (e.g. Ep6: toss the notepad over his shoulder, sticky notes rain down, smug coffee sip).
 
 RESULTS SO FAR (by the standard)

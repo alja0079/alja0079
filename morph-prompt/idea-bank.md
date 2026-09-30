@@ -144,6 +144,7 @@ Turn on: Settings → Apple Intelligence & Siri.
 ## 📞 CALLS
 
 ### #20 · Your iPhone waits on hold for you (Hold Assist)
+- **Note:** you said everybody knows it, the phone even offers it. Weak.
 - **Hook:** "Your iPhone can wait on hold so you don't have to."
 - **How:** When put on hold, tap "Hold" at the top of the call screen (or the menu button → Hold Assist). It alerts you when a real person comes back, with a transcript of what you missed. Auto-detect: Settings → Apps → Phone → Hold Assist Detection.
 - **Checked earlier (Apple Support):** iPhone 12 / SE 3rd gen or newer, iOS 26. Not in every country, so say "if you see Hold Assist on your phone".
@@ -243,6 +244,22 @@ RULE: the place must SHOW the problem. No random places (fails Clarity).
 | 🏖️ Beach | #24 Check In | "Tell them you're safe, automatically" |
 | ☎️ Couch, on hold | #20 Hold Assist | "Stuck on hold for 40 min?" |
 | 🎂 Party | #5 Schedule a text | "Never forget a birthday text" |
+
+## 🟫 HIDDEN GEMS (saved for later)
+
+### #34 · Vehicle Motion Cues: no more car sickness
+- **Hook:** "Feel sick using your phone in the car? Your iPhone can fix that."
+- **How:** Settings → Accessibility → Motion → Show Vehicle Motion Cues → Automatic. Moving dots on the screen edges match the car's motion. iOS 18+.
+- **Status:** NEW ⭐ very visual, you liked it ("maybe later")
+
+### #35 · Stolen Device Protection
+- **Hook:** "A thief knows your passcode. This setting still stops them."
+- **How:** Settings → Face ID & Passcode → Stolen Device Protection. Needs Face ID + a 1-hour delay for sensitive changes away from familiar places.
+- **Status:** NEW
+
+### #36 · Background Sounds: free rain and white noise
+- **How:** Settings → Accessibility → Audio & Visual → Background Sounds.
+- **Status:** NEW
 
 ---
 

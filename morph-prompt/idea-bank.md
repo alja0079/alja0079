@@ -167,7 +167,7 @@ Turn on: Settings → Apple Intelligence & Siri.
 
 ### #25 · Share your ETA instead of "I'm almost there"
 - **How:** Apple Maps → start navigation → tap the route card → Share ETA → pick a contact. Updates live if you're delayed.
-- **Status:** NEW
+- **Status:** USED (Episode 7)
 
 ### #26 · Set up Emergency SOS before you need it
 - **How:** Settings → Emergency SOS. Press the side button 5 times, or hold side + volume. Also check Emergency Contacts and Medical ID.
@@ -263,3 +263,4 @@ RULE: the place must SHOW the problem. No random places (fails Clarity).
 - Episode 4: Copy text off a sign with your camera (idea #10)
 - Episode 5: Who can still see your location? Safety Check (idea #27), Dave on the couch at night
 - Episode 6: Record a call, get the transcript in Notes (idea #33), Dave in the kitchen, notepad-toss ending
+- Episode 7: Share your ETA (idea #25), car vlog + Lip Sync, coworker Alex brings coffee, phone-in-hand cards
